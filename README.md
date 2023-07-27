@@ -1,5 +1,4 @@
 # Checho
-
 ---
 
 <p align="center">
@@ -7,16 +6,17 @@
 </p>
 
 ---
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ## About me
 
-- 👋 Hi, I’m @ChechoDevCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Checho
+- 👀 I’m interested in Web programming | Machine learning | 
+- 🌱 I’m currently working in a finance web app
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
-## Tols and Frameworks
+## Tools and Frameworks
 
 <p align="center">
   <img src="https://i.ibb.co/ZHRYmRF/HTML.png" alt="HTML" border="0" />
