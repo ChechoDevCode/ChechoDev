@@ -7,7 +7,6 @@
 </p>
 
 ---
-<br />
 
 ## Hello <img src="https://media.tenor.com/74nJqMKw4L4AAAAi/earth-internetcore.gif" width="30px">
 
